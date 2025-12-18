@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Shahzeb 👋
 
 # 💫 About Me:
 🔭 Researching Self-Supervised Learning & Computer Vision<br>👯 Looking forward to collaborate on AI/Web Projects<br>🌱 I’m currently learning Advanced AI and Web Technologies<br>
