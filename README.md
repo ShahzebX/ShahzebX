@@ -1,4 +1,67 @@
-## Hi, I'm Shahzeb 👋
+# Muhammad Shahzeb
+Full-Stack (MERN) & AI Engineer  
+Computer Vision • Applied Machine Learning
+
+I build real-world systems combining scalable web platforms and applied AI.
+
+✔ MERN stack applications with secure authentication & dashboards  
+✔ Computer vision & deep learning pipelines using PyTorch  
+✔ Production-ready deployments (not just notebooks)
+
+📍 Pakistan | Open to remote & on-site opportunities
+
+---
+
+## Tech Stack
+
+**Web:** React, TypeScript, JavaScript (ES6+), Node.js, Express, MongoDB  
+**AI/ML:** Python, PyTorch, CNNs, Image Processing  
+**Tools:** Git, Docker (basic), Postman, Figma, Tailwind CSS
+
+---
+
+## Featured Projects
+
+### Case Management & Tracking System
+MERN-based platform built for a government institution.
+
+• Role-based authentication & case lifecycle tracking  
+• Dashboard & reporting system  
+• Designed for secure on-prem deployment  
+
+Repo → https://github.com/ShahzebX/Case-Management-System
+
+---
+
+### Movies Web App
+Full-stack movie discovery platform.
+
+• JWT authentication & favorites  
+• TMDB API integration  
+• Responsive modern UI  
+
+Repo → https://github.com/ShahzebX/movies-app
+
+---
+
+### Image Enhancement using Deep Learning
+Deep learning pipeline for enhancing low-light images.
+
+• PyTorch-based model inference  
+• Image preprocessing & evaluation  
+
+Repo → https://github.com/ShahzebX/Image-Enhancement-DL
+
+---
+
+## Contact
+Portfolio → https://shahzebx.dev  
+LinkedIn → https://linkedin.com/in/shahzebx  
+Email → muhammadsfk@gmail.com
+
+
+
+
 
 # 💫 About Me:
 🔭 Researching Self-Supervised Learning & Computer Vision<br>👯 Looking forward to collaborate on AI/Web Projects<br>🌱 I’m currently learning Advanced AI and Web Technologies<br>
