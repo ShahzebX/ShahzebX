@@ -84,4 +84,5 @@ Deep learning pipeline for low-light image enhancement.
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShahzebX&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShahzebX&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ShahzebX&theme=tokyonight&hide_border=true" />
 </p>
