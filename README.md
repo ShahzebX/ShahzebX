@@ -31,7 +31,7 @@ Full-Stack (MERN) & AI Engineer • Computer Vision • Applied Machine Learning
 - Printable institutional reports
 - Designed for secure on-prem deployment
 
-🔗 https://github.com/ShahzebX/Case-Management-System
+🔗 https://github.com/Interns-PNA/case-management-system
 
 ---
 
